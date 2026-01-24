@@ -7,8 +7,6 @@ class NoteDb {
   static final NoteDb instance = NoteDb._init();
   static Database? _database;
 
-  NoteDb._init();
-
   Future<Database> get database async {
     if (_database != null) return _database!;
     _database = await _initDB('notes.db');
@@ -46,12 +44,7 @@ class NoteDb {
 
   Future<int> update(int id, Map<String, Object?> row) async {
     final db = await instance.database;
-    return await db.update(
-      'notes',
-      row,
-      where: 'id = ?',
-      whereArgs: [id],
-    );
+    return await db.update('notes', row, where: 'id = ?', whereArgs: [id]);
   }
 
   Future<int> delete(int id) async {
