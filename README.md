@@ -1,13 +1,13 @@
-# 📱 Release APK - Tugas Mobile Programming
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/0e06c8b9-9056-43b7-b410-580e5077b277" /># 📱 Release APK - Tugas Mobile Programming
 
 Repositori ini digunakan untuk mendistribusikan file APK hasil kompilasi dari proyek aplikasi Flutter.
 
 ---
 
-* **Nama:** Nabilah Zulfaa Afifah
-* **NIM:** 24552012006
-* **Kelas:** TIF RP 23 CID B
-* **Mata Kuliah:** Mobile Programming 2
+ **Nama:** Nabilah Zulfaa Afifah
+ **NIM:** 24552012006
+ **Kelas:** TIF RP 23 CID B
+ **Mata Kuliah:** Mobile Programming 2
 
 ---
 
@@ -15,32 +15,17 @@ Repositori ini digunakan untuk mendistribusikan file APK hasil kompilasi dari pr
 
 ### 📥 Link Download
 > [!IMPORTANT]
-> **[Klik di sini untuk mengunduh file APK](link-download-apk-kamu-disini)**
-
----
-
-## 📝 Detail Project
-Aplikasi ini dikembangkan menggunakan framework **Flutter** sebagai bagian dari tugas mata kuliah. Fitur utama yang diimplementasikan meliputi:
-* [ ] Integrasi Package `quran_library`
-* [ ] List Surah & Detail Surah
-* [ ] Fitur Login & Register
-* [ ] Halaman About / Profil
-
----
-
-## 🛠 Panduan Instalasi
-1. Unduh file APK melalui link di atas.
-2. Jika muncul peringatan keamanan, buka **Pengaturan** > **Keamanan**.
-3. Aktifkan opsi **"Izinkan instalasi dari sumber tidak dikenal"** (Unknown Sources).
-4. Buka file APK yang telah diunduh dan klik **Install**.
-5. Setelah selesai, jalankan aplikasi.
+> **[Klik di sini untuk mengunduh file APK](https://github.com/nabilahzulfaa/apkrelease/releases/download/tugas/app-debug.apk)**
 
 ---
 
 ## 🖥 Screenshot Aplikasi
-| Splash Screen | Login Page | List Surah |
-| :---: | :---: | :---: |
-| ![Splash](https://via.placeholder.com/150) | ![Login](https://via.placeholder.com/150) | ![Main](https://via.placeholder.com/150) |
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/708aaf7d-90cf-4889-b5e2-eb4e86f86968" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/7daccc15-94ff-4609-8836-c5477e337f3f" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/912ff5b1-a52e-4640-8eb6-87f279bbdcfa" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/9a6a7569-c4e0-43c8-80a1-bb372c9ce15b" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/cce885f6-484b-43aa-91db-1bd22ae632ee" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/cd2349ee-1fa0-4795-b3b6-49da0ec18904" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/07913c4b-ffea-495e-b19f-65cfc7bb9f7a" />
 
----
-*Dibuat untuk memenuhi tugas akademik Teknik Informatika.*
+
