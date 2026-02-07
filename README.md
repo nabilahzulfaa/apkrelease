@@ -4,10 +4,10 @@ Repositori ini digunakan untuk mendistribusikan file APK hasil kompilasi dari pr
 
 ---
 
- **Nama:** Nabilah Zulfaa Afifah
- **NIM:** 24552012006
- **Kelas:** TIF RP 23 CID B
- **Mata Kuliah:** Mobile Programming 2
+* **Nama:** Nabilah Zulfaa Afifah
+* **NIM:** 24552012006
+* **Kelas:** TIF RP 23 CID B
+* **Mata Kuliah:** Mobile Programming 2
 
 ---
 
