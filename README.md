@@ -1,4 +1,4 @@
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/0e06c8b9-9056-43b7-b410-580e5077b277" /># 📱 Release APK - Tugas Mobile Programming
+# 📱 Release APK - Tugas Mobile Programming
 
 Repositori ini digunakan untuk mendistribusikan file APK hasil kompilasi dari proyek aplikasi Flutter.
 
